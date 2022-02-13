@@ -46,7 +46,7 @@ li {
 
 .weather-temperature strong {
   color: rgb(33, 33, 33);
-  font-size: 52px;
+  font-size: 64px;
   line-height: 1;
   font-weight: 400;
 }
@@ -59,4 +59,8 @@ li {
 
 .fahrenheit {
   text-decoration: none;
+}
+
+.float-left {
+  float: left;
 }
